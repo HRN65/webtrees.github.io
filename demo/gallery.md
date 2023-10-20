@@ -65,7 +65,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Timbershack family history](https://www.timbershack.co.uk) ||F.A.B.|2.1.17|uk, scot|
 | [Verrips Family Tree](https://verrips.com) ||Xenea|2.1.17|nl|
 | [van der Molen genealogie](http://www.vdrmolen.com/genealogie-van-der-molen/webtrees-bridge)|embedded in Joomla|Clouds|2.1.6|nl|
-| [Våre familier](https://visitusinmaputo.com/webtree) ||F.A.B.|2.1.17|[no](https://visitusinmaputo.com/webtree/tree/familie/place-list)|
+| [Våre familier](https://visitusinmaputo.com/webtree) ||F.A.B.|2.1.18|[no](https://visitusinmaputo.com/webtree/tree/familie/place-list)|
 | [Wij zijn familie](https://wijzijnfamilie.nl) | [JC-modules Author](https://github.com/JustCarmen) |JustLight|2.1.17|[nl](https://wijzijnfamilie.nl/tree/wijzijnfamilie/place-list)|
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | |<b>2.0.x installations</b>||||
